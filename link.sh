@@ -3,6 +3,7 @@
 files_and_paths=(
   ".gitconfig:~/.gitconfig"
   "nvim:~/.config/nvim"
+  "wezterm:~/.config/wezterm"
 )
 
 # シンボリックリンクを作成する関数
